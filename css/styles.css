@@ -959,7 +959,7 @@ ul {
         display: flex;
     }
 
-    .mobile_contacts_list {
+    .company-adress {
         display: flex;
         flex-direction: column;
         gap: 12px;
@@ -1103,6 +1103,7 @@ ul {
     }
 
     .company-adress {
+        display: flex;
         flex-direction: row;
         gap: 40px;
     }
